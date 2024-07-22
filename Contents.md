@@ -1,4 +1,4 @@
-1) Part 1 - Prelude
+1) Part 1 - The Prelude
 	1) Control Flow
 		1) [[The `if` statement]]
 		2) [[The `for` statement]]
